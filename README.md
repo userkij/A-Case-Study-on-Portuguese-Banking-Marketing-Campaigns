@@ -1,0 +1,1 @@
+The file is a compressed folder containing a pdf file which contains the code of the project and a powerpoint presentation of the insights generated with the data visualization capabilities of python.
